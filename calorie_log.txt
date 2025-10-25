@@ -1,0 +1,29 @@
+Calorie Tracker Session - 2025-10-25 10:06:29.937721
+---------------------------
+Breakfast:	150.0
+Lunch:	250.0
+Dinner:	350.0
+Total calories: 750.0
+Average calories: 250.0
+Status: Within daily limit
+
+=========================================
+Calorie Tracker Session - 2025-10-25 10:12:04.667279
+-----------------------------------------
+Breakfast           600.0
+Lunch               300.0
+Evening snacks      250.0
+Dinner              450.0
+Total calories: 1600.0
+Average calories: 400.00
+Status: Exceeded daily limit
+
+=========================================
+Calorie Tracker Session - 2025-10-25 10:13:40.772766
+-----------------------------------------
+Breakfast           350.0
+Lunch               250.0
+Dinner              450.0
+Total calories: 1050.0
+Average calories: 350.00
+Status: Within daily limit
